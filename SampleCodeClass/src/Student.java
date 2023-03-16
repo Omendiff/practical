@@ -39,6 +39,10 @@ public class Student {
      return;
 }
 void stu(){
+
+}
+
+void sstu(){
     
 }
 
